@@ -4,7 +4,7 @@ export const articlesList = [
     author: 'ALEX RIVERA',
     title: 'The Rise of AI Agents',
     content: 'Autonomous software agents are now handling 40% of corporate scheduling...',
-    image: require('../assets/foo.jpg'),
+    image: require('../assets/foo1.jpg'),
     trending: true
   },
 
@@ -13,7 +13,7 @@ export const articlesList = [
     author: 'PLONY ALMONY',
     title: 'The Fall of AI Agents',
     content: 'Most big companies like to talk about powerful AI, but they have one hidden secret...',
-    image: require('../assets/foo.jpg'),
+    image: require('../assets/foo2.png'),
     trending: true
   },
 
@@ -22,7 +22,7 @@ export const articlesList = [
     author: 'JHON ALEX',
     title: 'Would Iran Attack?',
     content: 'All the media seems to talk about is the rise of AI agents, but Iran is threatning to attack....',
-    image: require('../assets/foo.jpg'),
+    image: require('../assets/foo3.jpg'),
     trending: true
   },
 ];
